@@ -5,12 +5,15 @@ Mouse controller based on hand pose estimation
 To test it make sure your hand is clear and facing the webcam. Leave your index finger pointing up.
 
 
-## Actual Fatures:
+## Actual Features:
 - **Move Mouse**: Just move the index finger arround.
 - **Click**: Join your thumb and index finger.
 - **Double Click**: Same as **click** but maintain it for longer time.
 - **Scroll**: Join your index and middle finger and move the hand up/down slightly.
 
+
+## Requirements
+To install requirements just "pip install -r requirements.txt"
 
 ## Output
 
