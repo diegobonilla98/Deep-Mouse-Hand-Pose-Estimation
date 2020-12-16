@@ -2,7 +2,7 @@
 Mouse controller based on hand pose estimation
 
 
-To test it make sure your hand is clear and facing the webcam. Leave your index finger pointing up.
+To test it make sure your hand is clear and facing the webcam (otherwise it won't start). Leave your index finger pointing up.
 
 
 ## Actual Features:
